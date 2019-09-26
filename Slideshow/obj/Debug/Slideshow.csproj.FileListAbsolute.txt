@@ -1,0 +1,19 @@
+C:\Users\VTA\Documents\Visual Studio 2015\Projects\Slideshow\Slideshow\bin\Debug\Slideshow.exe.config
+C:\Users\VTA\Documents\Visual Studio 2015\Projects\Slideshow\Slideshow\bin\Debug\Slideshow.exe
+C:\Users\VTA\Documents\Visual Studio 2015\Projects\Slideshow\Slideshow\bin\Debug\Slideshow.pdb
+C:\Users\VTA\Documents\Visual Studio 2015\Projects\Slideshow\Slideshow\obj\Debug\Slideshow.csprojResolveAssemblyReference.cache
+C:\Users\VTA\Documents\Visual Studio 2015\Projects\Slideshow\Slideshow\obj\Debug\Slideshow.Form1.resources
+C:\Users\VTA\Documents\Visual Studio 2015\Projects\Slideshow\Slideshow\obj\Debug\Slideshow.Properties.Resources.resources
+C:\Users\VTA\Documents\Visual Studio 2015\Projects\Slideshow\Slideshow\obj\Debug\Slideshow.csproj.GenerateResource.Cache
+C:\Users\VTA\Documents\Visual Studio 2015\Projects\Slideshow\Slideshow\obj\Debug\Slideshow.exe
+C:\Users\VTA\Documents\Visual Studio 2015\Projects\Slideshow\Slideshow\obj\Debug\Slideshow.pdb
+C:\Users\PHAN HUNG\Desktop\Slideshow\Slideshow\bin\Debug\Slideshow.exe.config
+C:\Users\PHAN HUNG\Desktop\Slideshow\Slideshow\bin\Debug\Slideshow.exe
+C:\Users\PHAN HUNG\Desktop\Slideshow\Slideshow\bin\Debug\Slideshow.pdb
+C:\Users\PHAN HUNG\Desktop\Slideshow\Slideshow\obj\Debug\Slideshow.csprojAssemblyReference.cache
+C:\Users\PHAN HUNG\Desktop\Slideshow\Slideshow\obj\Debug\Slideshow.Form1.resources
+C:\Users\PHAN HUNG\Desktop\Slideshow\Slideshow\obj\Debug\Slideshow.Properties.Resources.resources
+C:\Users\PHAN HUNG\Desktop\Slideshow\Slideshow\obj\Debug\Slideshow.csproj.GenerateResource.cache
+C:\Users\PHAN HUNG\Desktop\Slideshow\Slideshow\obj\Debug\Slideshow.csproj.CoreCompileInputs.cache
+C:\Users\PHAN HUNG\Desktop\Slideshow\Slideshow\obj\Debug\Slideshow.exe
+C:\Users\PHAN HUNG\Desktop\Slideshow\Slideshow\obj\Debug\Slideshow.pdb
